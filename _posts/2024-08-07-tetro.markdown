@@ -1,0 +1,15 @@
+---
+layout: post
+title: "first posting"
+description: This is first posting!
+date: 2024-08-07
+---
+
+# this is a ~~markdown~~
+***
+# the best programming lang is c 
+
+# test
+
+# the picture under this message is dumb joe
+<img src="assets/img/20240805_113236.jpg" height="600px" width="1121px">
