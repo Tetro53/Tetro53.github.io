@@ -1,4 +1,4 @@
-title: Wendell Thomas
+title: the ultimate sans
 description: > # this means to ignore newlines until "baseurl:"
   he beats joejuyeong. it is a piece of cake to him because jojuyeong is as weak as hamberger :> 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ blog_theme: dark # Or use dark
 name: wasans
 tagline: jojuyeong slasher
 about-description: he beats joejuyeong. it is a piece of cake to him because jojuyeong is as weak as hamberger :>  # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: download.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: artemsheludko@tuta.io # Add your Email address
